@@ -1,3 +1,8 @@
+openai 
+pypdf
+chromadb
+tiktoken
 gradio==2.1.5
 langchain==0.2.0
 transformers==4.14.0  
+
