@@ -9,8 +9,8 @@ This project implements a chatbot that answers questions about a PDF document us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/pdf-chatbot.git
-   cd pdf-chatbot
+   git clone https://github.com/your_username/pdf-chatbot.git](https://github.com/ajeetkumarukande95/Langchain_RetrievalQA.git
+   cd Langchain_RetrievalQA
    ```
 
 2. Install dependencies:
