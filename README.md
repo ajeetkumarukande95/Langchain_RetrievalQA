@@ -25,7 +25,7 @@ export OPENAI_API_KEY="your-api-key"
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/pdf-chatbot.git](https://github.com/ajeetkumarukande95/Langchain_RetrievalQA.git
+   git clone https://github.com/ajeetkumarukande95/Langchain_RetrievalQA.git
    cd Langchain_RetrievalQA
    ```
 
