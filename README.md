@@ -5,7 +5,6 @@
 This project implements a chatbot that answers questions about a PDF document using Langchain QA Retrieval chain.
 
 ## Prerequisites
-
 Before running the script, ensure you have the following:
 
 - Python installed on your system.
